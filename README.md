@@ -1,4 +1,4 @@
-<h2>### Hi there 👋</h2>h2>
+<h2>### Hi there 👋</h2>
 
 <h3 align="center">A passionate Software developer from South Africa</h3>
 
